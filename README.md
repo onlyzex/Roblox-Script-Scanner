@@ -3,3 +3,4 @@ Simple Scanner for Asset Free from Toolbox Roblox Studio to find malicious  code
 
 How To Use:
 Just Paste all the code into your command bar in roblox studio then hit Enter. :D
+![Uploading image.png…]()
